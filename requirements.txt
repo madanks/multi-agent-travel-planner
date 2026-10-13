@@ -1,0 +1,23 @@
+# Core LangGraph and LangChain Frameworks
+langgraph
+langchain
+langchain-community
+
+# OpenAI Integration
+langchain-openai
+
+# Search Tools and Providers
+tavily-python
+langchain-tavily
+google-search-results
+
+# Environment
+python-dotenv
+
+deepagents
+
+#Graph Images of Agents
+ipython
+
+# Testing
+pytest
